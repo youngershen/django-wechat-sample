@@ -2,6 +2,8 @@
 import os
 import sys
 
+sys.path.append('/home/youngershen/dev/projects/django-wechat/django-wechat')
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "django_wechat_sample.settings")
 

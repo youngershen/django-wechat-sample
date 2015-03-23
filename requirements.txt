@@ -1,0 +1,8 @@
+#django
+django==1.7.2
+
+#mysql-python
+mysql-python==1.2.5
+
+#south
+south==1.0.2
